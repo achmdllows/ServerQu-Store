@@ -8,3 +8,5 @@
 
 2. added script in file persuit/func.inc (#include "persuit/func.inc")
 3. remove 9 Warnings.
+4. add system duel 1vs1. in file persuit/func.inc (#include "duel11/func.inc")
+5. fix 2 error and remove 1 warning 213: tag mismatch
