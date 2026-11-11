@@ -5,3 +5,5 @@
 #include "gangwar/func.inc"
 #include "persuit/func.inc"
 ---------------------------
+
+2. added script in file persuit/func.inc (#include "persuit/func.inc")
