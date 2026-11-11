@@ -1,0 +1,7 @@
+1. add include:
+
+---------------------------
+#include "duel11/func.inc"
+#include "gangwar/func.inc"
+#include "persuit/func.inc"
+---------------------------
